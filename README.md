@@ -22,7 +22,7 @@ Pulls data about crypto currencies from coinmarketcap at set intervals.
 - Use pulled data
   - Showed csv file as a dataframe
   - Showed the first 5 decimals of each value
-  - Grouped the crypto currencies names together and limited columns to percent change in USD
+  - Grouped each crypto currency together and limit columns to percent change in USD
   - Transformed the dataframe into a stack, turning the percent change columns into rows for each cryptocurrency
   - Transformed the stack back into a dataframe
   - Changed the dataframes column names and turned the percent change values into their short form
