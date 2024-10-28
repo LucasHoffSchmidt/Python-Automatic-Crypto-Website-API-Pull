@@ -1,5 +1,5 @@
 # Python Automatic Crypto Website API Pull
-Pulls data about crypto currencies from coinmarketcap at set intervals. 
+In this project we used Jupyter Notebook to pull API data about crypto currencies from coinmarketcap at set intervals. 
 
 ## Tools and technologies
 - **Jupyter Notebook**
